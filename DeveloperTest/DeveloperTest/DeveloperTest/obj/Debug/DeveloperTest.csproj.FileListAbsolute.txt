@@ -1,0 +1,27 @@
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.exe.config
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.exe
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.pdb
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.csprojResolveAssemblyReference.cache
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\MainWindow.baml
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\MainWindow.g.cs
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\App.g.cs
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest_MarkupCompile.cache
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.g.resources
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.Properties.Resources.resources
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.csproj.GenerateResource.Cache
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.exe
+c:\users\hbobrykava\documents\visual studio 2013\Projects\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.pdb
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.exe.config
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.exe
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.pdb
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.exe
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.pdb
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\MainWindow.baml
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\MainWindow.g.cs
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\App.g.cs
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest_MarkupCompile.cache
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.g.resources
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.Properties.Resources.resources
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.csproj.GenerateResource.Cache
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.exe.CodeAnalysisLog.xml
+C:\Users\IEUser\Downloads\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.exe.lastcodeanalysissucceeded
